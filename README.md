@@ -11,6 +11,13 @@ The project includes:
 * A complete quantitative analysis component, satisfying the final project expectations.
 * An accompanying explanation that synthesizes three key course lectures.
 
+## 🚀 Live Application
+
+You can access and interact with the deployed simulator immediately via the Streamlit Community Cloud:
+
+**[Live Simulator Link](https://finalprojectastro12600-m7oypjvuupepgknjuhnier.streamlit.app/)**
+
+---
 ---
 
 ## 📌 Project Motivation
