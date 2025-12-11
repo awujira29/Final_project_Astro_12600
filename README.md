@@ -32,7 +32,7 @@ At the same time, orbital motion near black holes remains governed, at moderate 
 
 This project explicitly synthesizes material from at least three course lectures, satisfying the requirement described in the Final Project Checklist Form and the Final Project Rubric.
 
-* **Lecture 6–7: Newtonian Gravity**
+* **Lecture 7–8: Newtonian Gravity**
     * Used to compute gravitational acceleration: $g(r)=\frac{GM}{r^2}$
     * Used to compute tidal forces by comparing gravitational pull at two distances ($\Delta g = |g(r) - g(r+h)|$).
 
@@ -41,7 +41,7 @@ This project explicitly synthesizes material from at least three course lectures
     * Used course intuition that ($r_s \approx 3 \text{ km}$) per solar mass.
     * Distinguishes between being outside vs. inside the event horizon.
 
-* **Lecture on Kepler’s 3rd Law**
+* **Lecture 6: on Kepler’s 3rd Law**
     * Applied the Newtonian orbital period formula: $P = 2\pi\sqrt{\frac{r^3}{GM}}$
     * Used to compute how orbital periods dramatically shorten near compact objects.
 
